@@ -218,7 +218,7 @@ class Config:
     VIEW_LINK = False
     ENABLE_EXTERNAL_VERIFICATION = True
     VERIFY_BOT = "huntverify_bot"
-    DATABASE_URL_VERIFY = "mongodb+srv://huntermirror8:167400@verify.hkol8zr.mongodb.net/?retryWrites=true&w=majority&appName=verify"
+    DATABASE_URL_VERIFY = ""
     DATABASE_NAME_VERIFY = "verify"
     BOT_USERNAME = ""
     VERIFY_DURATION = 86400
